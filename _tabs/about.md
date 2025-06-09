@@ -5,8 +5,38 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I'm m0rgan — a Marine Corps veteran, former 911 operator, and now a full-time web application security student and bug bounty hunter.
+Hi, I’m m0rgan.
 
-I’ve submitted over 20 vulnerability reports to public bounty programs, built automation tools for recon and exploitation, and work daily on scripting, lab work, and report writing. This site is where I share that journey — tools, lessons, and progress — all in one place.
+After 15 years in roles where discretion and operational security were a way of life—first in the Marine Corps, then as a federal police officer and 911 dispatcher—I’ve shifted my focus to something that’s always fascinated me: web application security.
 
-If you're hiring in offensive security or AppSec: I’m actively looking for opportunities, and this site is my resume in motion.
+I don’t come from a traditional tech background. I didn’t get a computer science degree, and I didn’t start coding when I was a kid. I completed labs every day. I read books. I built tools, submitted bug bounty reports, and I created this site to document what I’ve learned and to make things easier for the next person who decides to walk this path.
+
+---
+
+### Tools I’ve Built
+
+- [**Musthave Cookies**](https://github.com/webvenv/musthave-cookies) – CLI tool that identifies which cookies are actually required by the server to maintain session state, access authenticated resources, or avoid redirection/denial responses.
+
+- [**Overflow Encoder**](https://github.com/webvenv/overflow-encoder) – Payload construction utility to assist with exploiting Unicode Overflow vulnerabilities in web applications.
+
+---
+
+### Certifications
+
+- **CompTIA Security+**
+
+- **PentesterLab Badges:** Unix, Essential, Recon, White, PCAP, HTTP, Serial, and API
+
+---
+
+### What I’m Working Toward
+
+I’m actively pursuing a role in **Web Application Security**.  
+Whether it’s testing, analysis, or secure development, my focus is on understanding how web apps break and how to make them safer.
+
+---
+
+**Contact**  
+- 🔗 [GitHub](https://github.com/webvenv)  
+- 📧 [webvenv@gmail.com](mailto:webvenv@gmail.com)  
+- 💼 *(LinkedIn coming soon)*
