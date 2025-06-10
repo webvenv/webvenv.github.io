@@ -6,7 +6,7 @@ order: 4
 ---
 
 <div style="width: 100%; max-height: 250px; overflow: hidden; border-radius: 8px; margin-bottom: 1rem;">
-  <img src="assets/img/bannerevolution.png" alt="Fork in the road" style="width: 100%; object-fit: cover;">
+  <img src="/assets/img/bannerevolution.png" alt="Fork in the road" style="width: 100%; object-fit: cover;">
 </div>
 
 Hi, I’m m0rgan.
