@@ -5,6 +5,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+<div style="width: 100%; max-height: 250px; overflow: hidden; border-radius: 8px; margin-bottom: 1rem;">
+  <img src="assets/img/bannerevolution.png" alt="Fork in the road" style="width: 100%; object-fit: cover;">
+</div>
+
 Hi, I’m m0rgan.
 
 After 15 years in roles where discretion and operational security were a way of life—first in the Marine Corps, then as a federal police officer and 911 dispatcher—I’ve shifted my focus to something that’s always fascinated me: web application security.
