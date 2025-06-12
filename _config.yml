@@ -228,3 +228,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# --- Custom configurations  ---
+
+# firefox favicon solution
+favicon:
+  rel_path: /assets/img/favicons
+  ico: favicon.ico
